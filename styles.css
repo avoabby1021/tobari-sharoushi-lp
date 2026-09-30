@@ -1,17 +1,17 @@
 :root {
   --font: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
   --maxw: 1080px;
-  --soft: #f5f7fa;
-  --brand-d: #2f49b8;
-  --muted: #94a3b8;
-  --brand: #3b5bdb;
+  --soft: #f4f8f7;
+  --brand-d: #123c39;
+  --muted: #8ba39e;
+  --brand: #1f6f66;
   --body: #4b5563;
   --body2: #64748b;
-  --brand-ln: #c9d5fb;
-  --line: #e8ecf2;
-  --ink: #1A2233;
-  --ink2: #2b3648;
-  --brand-bg: #eef2ff;
+  --brand-ln: #bfe0da;
+  --line: #e5edeb;
+  --ink: #14282a;
+  --ink2: #24393a;
+  --brand-bg: #e8f4f2;
   --amber: #d97706;
   --bg: #ffffff;
   --danger: #dc2626;
